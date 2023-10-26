@@ -1,4 +1,4 @@
-# philosophers\</p>
+# philosophers
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/badge/evaluated-03%20%2F%2009%20%2F%202023-success?color=%2312bab9&style=flat-square"/>
